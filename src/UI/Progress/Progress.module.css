@@ -1,0 +1,14 @@
+.progress {
+    position: relative;
+    height: 3px;
+    width: 100%;
+    border-radius: 50px;
+    border: 1px solid #bbb;
+}
+
+.filler {
+    background: #a2d5c6;
+    height: 100%;
+    border-radius: inherit;
+    transition: width .2s ease-in;
+}
